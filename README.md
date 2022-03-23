@@ -27,6 +27,6 @@
 
 
 - 🔭 Atualmente trabalho com Magento 2
-- 🌱 Estudando Vue e PHP
+- 🌱 Estudando Magento 2 e React-Native
 - 📫 Email de contato: siqueira4503@gmail.com
 
